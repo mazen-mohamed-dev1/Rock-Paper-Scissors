@@ -1,43 +1,59 @@
 # 🪨📄✂️ Rock Paper Scissors
 
-A simple and interactive **Rock-Paper-Scissors** game built with **HTML** and **JavaScript**, now with **live score display** directly on the page — no more annoying alerts!
+A fun, beginner-friendly Rock–Paper–Scissors game built with **HTML** and **Vanilla JavaScript** — now with **live score updates** right on the page.
+No pop-up alerts, just smooth and instant feedback.
+
+---
 
 ## 🎮 How to Play
 
 1. Click **Rock**, **Paper**, or **Scissors** to make your move.
-2. The computer will randomly pick its move.
-3. See the result and the updated score instantly on the page.
-4. Use the **Reset Score** button to start fresh anytime.
+2. The computer will randomly choose its move.
+3. Instantly see the **result** and your **updated score** on the page.
+4. Click **Reset Score** anytime to start fresh.
+
+---
 
 ## ✅ Features
 
-* **Persistent score tracking** with `localStorage`
-* **Random computer move** generation with `Math.random()`
-* **Live score display** (Wins, Losses, Ties)
-* **Instant result feedback** on the page
-* **Reset button** to clear scores
-* Simple, clean, and beginner-friendly code
+* **Persistent score tracking** using `localStorage`
+* **Random computer moves** with `Math.random()`
+* **Live score display** — Wins, Losses, and Ties
+* **Instant feedback** without alerts
+* **One-click reset** for a clean start
+* Clean, simple, and **easy-to-read code** for beginners
 
-## 🛠️ Future Improvements
+---
 
-* Add **CSS styling** for a better look
-* Include **animations** or emojis for moves
-* Add **sound effects** for win/loss/tie events
-* Make it **mobile-friendly** with responsive design
+## 🛠️ Planned Improvements
+
+* 🎨 Add CSS styling for a better look
+* 🎭 Add animations or fun emojis for moves
+* 🔊 Add sound effects for win/loss/tie
+* 📱 Make it mobile-friendly with responsive design
+
+---
 
 ## 📂 Version History
 
-* **v1:** Basic game with alerts, no score tracking
-* **v2:** Added score tracking with `localStorage` and reset feature
-* **v3 (current):**
+* **v1** – Basic game with alerts, no score tracking
+* **v2** – Added score tracking via `localStorage` and reset button
+* **v3 (current)** –
 
   * Results & scores shown directly on the page
   * Cleaner UI without alert popups
 
+---
+
 ## 🧑‍💻 Tech Stack
 
-* HTML
-* JavaScript (Vanilla)
-* Browser `localStorage` API
+* **HTML**
+* **JavaScript (Vanilla)**
+* **Browser localStorage API**
 
-💡 Made for learning and fun 🎉 — Contributions, ideas, and improvements are welcome!
+---
+
+If you want, I can also make you **a matching CSS design** so this README’s “future improvements” list actually has the styling done right now.
+That way, when people see your repo, it’ll feel more complete.
+
+Do you want me to do that next?
