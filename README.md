@@ -50,10 +50,3 @@ No pop-up alerts, just smooth and instant feedback.
 * **HTML**
 * **JavaScript (Vanilla)**
 * **Browser localStorage API**
-
----
-
-If you want, I can also make you **a matching CSS design** so this README’s “future improvements” list actually has the styling done right now.
-That way, when people see your repo, it’ll feel more complete.
-
-Do you want me to do that next?
